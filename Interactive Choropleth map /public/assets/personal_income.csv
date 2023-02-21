@@ -1,0 +1,1582 @@
+﻿State,Year,Income
+Alabama,1984,9772
+Alabama,1985,10388
+Alabama,1986,10944
+Alabama,1987,11454
+Alabama,1988,12391
+Alabama,1989,13377
+Alabama,1990,14175
+Alabama,1991,14867
+Alabama,1992,15821
+Alabama,1993,16294
+Alabama,1994,16995
+Alabama,1995,17772
+Alabama,1996,18364
+Alabama,1997,19087
+Alabama,1998,20120
+Alabama,1999,20685
+Alabama,2000,21574
+Alabama,2001,22255
+Alabama,2002,23170
+Alabama,2003,24304
+Alabama,2004,26011
+Alabama,2005,27130
+Alabama,2006,28296
+Alabama,2007,29371
+Alabama,2008,30202
+Alabama,2009,30155
+Alabama,2010,31187
+Alabama,2011,31883
+Alabama,2012,32760
+Alabama,2013,32699
+Alabama,2014,33675
+Alaska,1984,17573
+Alaska,1985,18455
+Alaska,1986,18461
+Alaska,1987,17703
+Alaska,1988,18483
+Alaska,1989,19732
+Alaska,1990,20549
+Alaska,1991,21008
+Alaska,1992,21767
+Alaska,1993,22515
+Alaska,1994,23059
+Alaska,1995,23705
+Alaska,1996,24138
+Alaska,1997,25176
+Alaska,1998,26080
+Alaska,1999,26769
+Alaska,2000,28606
+Alaska,2001,29967
+Alaska,2002,31583
+Alaska,2003,33032
+Alaska,2004,34156
+Alaska,2005,35849
+Alaska,2006,37574
+Alaska,2007,39806
+Alaska,2008,43261
+Alaska,2009,43732
+Alaska,2010,45912
+Alaska,2011,48304
+Alaska,2012,49533
+Alaska,2013,48237
+Alaska,2014,51038
+Arizona,1984,11696
+Arizona,1985,12479
+Arizona,1986,13153
+Arizona,1987,13615
+Arizona,1988,14382
+Arizona,1989,14990
+Arizona,1990,15440
+Arizona,1991,15840
+Arizona,1992,16429
+Arizona,1993,16974
+Arizona,1994,17750
+Arizona,1995,18526
+Arizona,1996,19202
+Arizona,1997,20080
+Arizona,1998,21189
+Arizona,1999,21855
+Arizona,2000,23048
+Arizona,2001,23731
+Arizona,2002,24599
+Arizona,2003,25748
+Arizona,2004,27367
+Arizona,2005,28904
+Arizona,2006,30918
+Arizona,2007,31988
+Arizona,2008,32197
+Arizona,2009,30950
+Arizona,2010,31157
+Arizona,2011,32052
+Arizona,2012,33231
+Arizona,2013,33502
+Arizona,2014,34977
+Arkansas,1984,9533
+Arkansas,1985,10065
+Arkansas,1986,10588
+Arkansas,1987,10933
+Arkansas,1988,11754
+Arkansas,1989,12550
+Arkansas,1990,13137
+Arkansas,1991,13787
+Arkansas,1992,14838
+Arkansas,1993,15301
+Arkansas,1994,15957
+Arkansas,1995,16674
+Arkansas,1996,17424
+Arkansas,1997,17992
+Arkansas,1998,18841
+Arkansas,1999,19463
+Arkansas,2000,20218
+Arkansas,2001,21234
+Arkansas,2002,21976
+Arkansas,2003,23392
+Arkansas,2004,24781
+Arkansas,2005,25653
+Arkansas,2006,26840
+Arkansas,2007,28186
+Arkansas,2008,29065
+Arkansas,2009,28864
+Arkansas,2010,29723
+Arkansas,2011,31201
+Arkansas,2012,33378
+Arkansas,2013,33186
+Arkansas,2014,35102
+California,1984,14046
+California,1985,14755
+California,1986,15467
+California,1987,16073
+California,1988,17205
+California,1989,17869
+California,1990,18711
+California,1991,19253
+California,1992,20135
+California,1993,20437
+California,1994,20913
+California,1995,21714
+California,1996,22592
+California,1997,23454
+California,1998,24955
+California,1999,26014
+California,2000,27660
+California,2001,28808
+California,2002,29928
+California,2003,31229
+California,2004,32832
+California,2005,33966
+California,2006,36259
+California,2007,37446
+California,2008,37777
+California,2009,37319
+California,2010,38472
+California,2011,40011
+California,2012,42215
+California,2013,41878
+California,2014,44115
+Colorado,1984,13361
+Colorado,1985,13954
+Colorado,1986,14421
+Colorado,1987,14800
+Colorado,1988,15693
+Colorado,1989,16715
+Colorado,1990,17471
+Colorado,1991,18121
+Colorado,1992,19077
+Colorado,1993,19922
+Colorado,1994,20733
+Colorado,1995,21930
+Colorado,1996,22924
+Colorado,1997,23881
+Colorado,1998,25664
+Colorado,1999,26747
+Colorado,2000,28897
+Colorado,2001,30030
+Colorado,2002,30355
+Colorado,2003,31113
+Colorado,2004,31975
+Colorado,2005,33364
+Colorado,2006,35139
+Colorado,2007,36588
+Colorado,2008,37572
+Colorado,2009,36072
+Colorado,2010,36484
+Colorado,2011,38570
+Colorado,2012,40386
+Colorado,2013,41677
+Colorado,2014,44581
+Connecticut,1984,15436
+Connecticut,1985,16319
+Connecticut,1986,17335
+Connecticut,1987,18593
+Connecticut,1988,20612
+Connecticut,1989,22300
+Connecticut,1990,23007
+Connecticut,1991,23198
+Connecticut,1992,24665
+Connecticut,1993,25298
+Connecticut,1994,25958
+Connecticut,1995,27144
+Connecticut,1996,27863
+Connecticut,1997,29192
+Connecticut,1998,31058
+Connecticut,1999,32506
+Connecticut,2000,34980
+Connecticut,2001,36781
+Connecticut,2002,37991
+Connecticut,2003,38667
+Connecticut,2004,40493
+Connecticut,2005,41950
+Connecticut,2006,45093
+Connecticut,2007,47878
+Connecticut,2008,51372
+Connecticut,2009,52436
+Connecticut,2010,53964
+Connecticut,2011,54252
+Connecticut,2012,55025
+Connecticut,2013,52494
+Connecticut,2014,54983
+Delaware,1984,12569
+Delaware,1985,13489
+Delaware,1986,14113
+Delaware,1987,15106
+Delaware,1988,16359
+Delaware,1989,17869
+Delaware,1990,18503
+Delaware,1991,19373
+Delaware,1992,19905
+Delaware,1993,20310
+Delaware,1994,20726
+Delaware,1995,21585
+Delaware,1996,22555
+Delaware,1997,23004
+Delaware,1998,25137
+Delaware,1999,26733
+Delaware,2000,29292
+Delaware,2001,32117
+Delaware,2002,33511
+Delaware,2003,34140
+Delaware,2004,34840
+Delaware,2005,34643
+Delaware,2006,36111
+Delaware,2007,36647
+Delaware,2008,35919
+Delaware,2009,36991
+Delaware,2010,36987
+Delaware,2011,39222
+Delaware,2012,39402
+Delaware,2013,39457
+Delaware,2014,40953
+District of Columbia,1984,15063
+District of Columbia,1985,15891
+District of Columbia,1986,16657
+District of Columbia,1987,17459
+District of Columbia,1988,19483
+District of Columbia,1989,20805
+District of Columbia,1990,22509
+District of Columbia,1991,23972
+District of Columbia,1992,25455
+District of Columbia,1993,26699
+District of Columbia,1994,27398
+District of Columbia,1995,28033
+District of Columbia,1996,29338
+District of Columbia,1997,30608
+District of Columbia,1998,32327
+District of Columbia,1999,33512
+District of Columbia,2000,36488
+District of Columbia,2001,37711
+District of Columbia,2002,39028
+District of Columbia,2003,39869
+District of Columbia,2004,43367
+District of Columbia,2005,45252
+District of Columbia,2006,47572
+District of Columbia,2007,50377
+District of Columbia,2008,51654
+District of Columbia,2009,52440
+District of Columbia,2010,55622
+District of Columbia,2011,57971
+District of Columbia,2012,58518
+District of Columbia,2013,57654
+District of Columbia,2014,60788
+Florida,1984,12610
+Florida,1985,13259
+Florida,1986,13909
+Florida,1987,14620
+Florida,1988,15724
+Florida,1989,17028
+Florida,1990,17714
+Florida,1991,18125
+Florida,1992,18808
+Florida,1993,19522
+Florida,1994,20082
+Florida,1995,21107
+Florida,1996,21784
+Florida,1997,22365
+Florida,1998,23600
+Florida,1999,24283
+Florida,2000,25759
+Florida,2001,26738
+Florida,2002,27680
+Florida,2003,28974
+Florida,2004,30606
+Florida,2005,32102
+Florida,2006,34207
+Florida,2007,35295
+Florida,2008,35423
+Florida,2009,33921
+Florida,2010,35766
+Florida,2011,36851
+Florida,2012,37719
+Florida,2013,36956
+Florida,2014,38937
+Georgia,1984,10918
+Georgia,1985,11617
+Georgia,1986,12440
+Georgia,1987,13059
+Georgia,1988,14076
+Georgia,1989,14881
+Georgia,1990,15686
+Georgia,1991,16225
+Georgia,1992,17182
+Georgia,1993,17759
+Georgia,1994,18618
+Georgia,1995,19580
+Georgia,1996,20535
+Georgia,1997,21213
+Georgia,1998,22643
+Georgia,1999,23571
+Georgia,2000,24907
+Georgia,2001,25814
+Georgia,2002,26793
+Georgia,2003,27762
+Georgia,2004,28864
+Georgia,2005,29857
+Georgia,2006,30859
+Georgia,2007,31540
+Georgia,2008,31494
+Georgia,2009,31221
+Georgia,2010,31624
+Georgia,2011,33174
+Georgia,2012,33802
+Georgia,2013,33722
+Georgia,2014,35651
+Hawaii,1984,13490
+Hawaii,1985,14124
+Hawaii,1986,14788
+Hawaii,1987,15321
+Hawaii,1988,16647
+Hawaii,1989,18160
+Hawaii,1990,19510
+Hawaii,1991,20119
+Hawaii,1992,21669
+Hawaii,1993,22226
+Hawaii,1994,22485
+Hawaii,1995,22962
+Hawaii,1996,22714
+Hawaii,1997,23298
+Hawaii,1998,23576
+Hawaii,1999,24434
+Hawaii,2000,25738
+Hawaii,2001,26583
+Hawaii,2002,27993
+Hawaii,2003,29269
+Hawaii,2004,30888
+Hawaii,2005,32416
+Hawaii,2006,34225
+Hawaii,2007,35999
+Hawaii,2008,37522
+Hawaii,2009,37537
+Hawaii,2010,38080
+Hawaii,2011,38880
+Hawaii,2012,39774
+Hawaii,2013,39457
+Hawaii,2014,41327
+Idaho,1984,10324
+Idaho,1985,10851
+Idaho,1986,11172
+Idaho,1987,11709
+Idaho,1988,12640
+Idaho,1989,13637
+Idaho,1990,14407
+Idaho,1991,14748
+Idaho,1992,15673
+Idaho,1993,16641
+Idaho,1994,17244
+Idaho,1995,18013
+Idaho,1996,18687
+Idaho,1997,19009
+Idaho,1998,20166
+Idaho,1999,20873
+Idaho,2000,22059
+Idaho,2001,22735
+Idaho,2002,23749
+Idaho,2003,24364
+Idaho,2004,25821
+Idaho,2005,26365
+Idaho,2006,28017
+Idaho,2007,29102
+Idaho,2008,29499
+Idaho,2009,28794
+Idaho,2010,29552
+Idaho,2011,30635
+Idaho,2012,32022
+Idaho,2013,32706
+Idaho,2014,34121
+Illinois,1984,13059
+Illinois,1985,13684
+Illinois,1986,14431
+Illinois,1987,15107
+Illinois,1988,16399
+Illinois,1989,17360
+Illinois,1990,18363
+Illinois,1991,18665
+Illinois,1992,20072
+Illinois,1993,20511
+Illinois,1994,21336
+Illinois,1995,22416
+Illinois,1996,23527
+Illinois,1997,24525
+Illinois,1998,25673
+Illinois,1999,26607
+Illinois,2000,28440
+Illinois,2001,29602
+Illinois,2002,30525
+Illinois,2003,31459
+Illinois,2004,32709
+Illinois,2005,33666
+Illinois,2006,35533
+Illinois,2007,37143
+Illinois,2008,38029
+Illinois,2009,37159
+Illinois,2010,37988
+Illinois,2011,38993
+Illinois,2012,40555
+Illinois,2013,41065
+Illinois,2014,43014
+Indiana,1984,11050
+Indiana,1985,11625
+Indiana,1986,12288
+Indiana,1987,12945
+Indiana,1988,13824
+Indiana,1989,14897
+Indiana,1990,15638
+Indiana,1991,15996
+Indiana,1992,17210
+Indiana,1993,17892
+Indiana,1994,18753
+Indiana,1995,19381
+Indiana,1996,20232
+Indiana,1997,21018
+Indiana,1998,22451
+Indiana,1999,23179
+Indiana,2000,24664
+Indiana,2001,25108
+Indiana,2002,25757
+Indiana,2003,26543
+Indiana,2004,27800
+Indiana,2005,28316
+Indiana,2006,29589
+Indiana,2007,30238
+Indiana,2008,31616
+Indiana,2009,31309
+Indiana,2010,32532
+Indiana,2011,34112
+Indiana,2012,35752
+Indiana,2013,35796
+Indiana,2014,37113
+Iowa,1984,11616
+Iowa,1985,12137
+Iowa,1986,12738
+Iowa,1987,13344
+Iowa,1988,13756
+Iowa,1989,14909
+Iowa,1990,15602
+Iowa,1991,15897
+Iowa,1992,17013
+Iowa,1993,16919
+Iowa,1994,18410
+Iowa,1995,19004
+Iowa,1996,20634
+Iowa,1997,21351
+Iowa,1998,22215
+Iowa,1999,22685
+Iowa,2000,24223
+Iowa,2001,24960
+Iowa,2002,25969
+Iowa,2003,26721
+Iowa,2004,28961
+Iowa,2005,29563
+Iowa,2006,31042
+Iowa,2007,32807
+Iowa,2008,34725
+Iowa,2009,34077
+Iowa,2010,34933
+Iowa,2011,37052
+Iowa,2012,38636
+Iowa,2013,38947
+Iowa,2014,40100
+Kansas,1984,12314
+Kansas,1985,12882
+Kansas,1986,13586
+Kansas,1987,14021
+Kansas,1988,14675
+Kansas,1989,15368
+Kansas,1990,16317
+Kansas,1991,16817
+Kansas,1992,17970
+Kansas,1993,18584
+Kansas,1994,19210
+Kansas,1995,19771
+Kansas,1996,20863
+Kansas,1997,21823
+Kansas,1998,22893
+Kansas,1999,23495
+Kansas,2000,24606
+Kansas,2001,25463
+Kansas,2002,26101
+Kansas,2003,27127
+Kansas,2004,27860
+Kansas,2005,29113
+Kansas,2006,31763
+Kansas,2007,33643
+Kansas,2008,36669
+Kansas,2009,35925
+Kansas,2010,36274
+Kansas,2011,38731
+Kansas,2012,40922
+Kansas,2013,41461
+Kansas,2014,42224
+Kentucky,1984,9954
+Kentucky,1985,10334
+Kentucky,1986,10644
+Kentucky,1987,11202
+Kentucky,1988,12246
+Kentucky,1989,13084
+Kentucky,1990,13788
+Kentucky,1991,14521
+Kentucky,1992,15474
+Kentucky,1993,15868
+Kentucky,1994,16478
+Kentucky,1995,17035
+Kentucky,1996,17882
+Kentucky,1997,18729
+Kentucky,1998,19599
+Kentucky,1999,20278
+Kentucky,2000,21792
+Kentucky,2001,22411
+Kentucky,2002,23228
+Kentucky,2003,23965
+Kentucky,2004,25377
+Kentucky,2005,26247
+Kentucky,2006,27500
+Kentucky,2007,28310
+Kentucky,2008,29480
+Kentucky,2009,29560
+Kentucky,2010,30430
+Kentucky,2011,31435
+Kentucky,2012,32500
+Kentucky,2013,32428
+Kentucky,2014,33826
+Louisiana,1984,10499
+Louisiana,1985,10902
+Louisiana,1986,11063
+Louisiana,1987,11253
+Louisiana,1988,12068
+Louisiana,1989,12821
+Louisiana,1990,13875
+Louisiana,1991,14554
+Louisiana,1992,15517
+Louisiana,1993,16174
+Louisiana,1994,17083
+Louisiana,1995,17758
+Louisiana,1996,18287
+Louisiana,1997,19017
+Louisiana,1998,19901
+Louisiana,1999,20362
+Louisiana,2000,21482
+Louisiana,2001,22967
+Louisiana,2002,23936
+Louisiana,2003,24853
+Louisiana,2004,25917
+Louisiana,2005,27776
+Louisiana,2006,30793
+Louisiana,2007,32840
+Louisiana,2008,34633
+Louisiana,2009,33994
+Louisiana,2010,35295
+Louisiana,2011,35896
+Louisiana,2012,37436
+Louisiana,2013,37520
+Louisiana,2014,39055
+Maine,1984,10722
+Maine,1985,11458
+Maine,1986,12259
+Maine,1987,13007
+Maine,1988,14150
+Maine,1989,15240
+Maine,1990,15759
+Maine,1991,16077
+Maine,1992,16914
+Maine,1993,17435
+Maine,1994,18081
+Maine,1995,18859
+Maine,1996,19716
+Maine,1997,20555
+Maine,1998,21764
+Maine,1999,22621
+Maine,2000,24005
+Maine,2001,25275
+Maine,2002,26473
+Maine,2003,27877
+Maine,2004,29213
+Maine,2005,29603
+Maine,2006,30878
+Maine,2007,31885
+Maine,2008,33275
+Maine,2009,33966
+Maine,2010,34823
+Maine,2011,35934
+Maine,2012,36632
+Maine,2013,36264
+Maine,2014,37647
+Maryland,1984,13712
+Maryland,1985,14759
+Maryland,1986,15697
+Maryland,1987,16446
+Maryland,1988,17948
+Maryland,1989,18945
+Maryland,1990,19835
+Maryland,1991,20428
+Maryland,1992,21306
+Maryland,1993,21916
+Maryland,1994,22650
+Maryland,1995,23337
+Maryland,1996,24104
+Maryland,1997,24837
+Maryland,1998,26758
+Maryland,1999,28039
+Maryland,2000,30130
+Maryland,2001,31453
+Maryland,2002,32996
+Maryland,2003,34498
+Maryland,2004,36529
+Maryland,2005,37809
+Maryland,2006,39384
+Maryland,2007,40595
+Maryland,2008,42553
+Maryland,2009,42895
+Maryland,2010,43985
+Maryland,2011,45377
+Maryland,2012,46283
+Maryland,2013,45301
+Maryland,2014,46486
+Massachusetts,1984,13618
+Massachusetts,1985,14526
+Massachusetts,1986,15535
+Massachusetts,1987,16636
+Massachusetts,1988,18427
+Massachusetts,1989,19309
+Massachusetts,1990,19865
+Massachusetts,1991,20321
+Massachusetts,1992,21367
+Massachusetts,1993,22035
+Massachusetts,1994,22937
+Massachusetts,1995,23955
+Massachusetts,1996,25041
+Massachusetts,1997,26170
+Massachusetts,1998,27290
+Massachusetts,1999,28856
+Massachusetts,2000,31160
+Massachusetts,2001,32916
+Massachusetts,2002,33983
+Massachusetts,2003,34931
+Massachusetts,2004,36826
+Massachusetts,2005,38113
+Massachusetts,2006,40851
+Massachusetts,2007,42193
+Massachusetts,2008,44082
+Massachusetts,2009,44822
+Massachusetts,2010,46399
+Massachusetts,2011,47225
+Massachusetts,2012,49080
+Massachusetts,2013,48075
+Massachusetts,2014,49801
+Michigan,1984,11958
+Michigan,1985,12841
+Michigan,1986,13596
+Michigan,1987,13991
+Michigan,1988,14959
+Michigan,1989,15981
+Michigan,1990,16695
+Michigan,1991,16996
+Michigan,1992,17975
+Michigan,1993,18650
+Michigan,1994,19874
+Michigan,1995,20768
+Michigan,1996,21542
+Michigan,1997,22466
+Michigan,1998,23573
+Michigan,1999,24620
+Michigan,2000,26225
+Michigan,2001,26755
+Michigan,2002,27180
+Michigan,2003,28066
+Michigan,2004,29015
+Michigan,2005,29562
+Michigan,2006,30260
+Michigan,2007,31098
+Michigan,2008,32086
+Michigan,2009,31448
+Michigan,2010,32623
+Michigan,2011,34054
+Michigan,2012,35326
+Michigan,2013,35249
+Michigan,2014,36731
+Minnesota,1984,12586
+Minnesota,1985,13282
+Minnesota,1986,14026
+Minnesota,1987,14728
+Minnesota,1988,15353
+Minnesota,1989,16584
+Minnesota,1990,17342
+Minnesota,1991,17777
+Minnesota,1992,18838
+Minnesota,1993,19094
+Minnesota,1994,20214
+Minnesota,1995,21044
+Minnesota,1996,22188
+Minnesota,1997,23114
+Minnesota,1998,24804
+Minnesota,1999,25969
+Minnesota,2000,27620
+Minnesota,2001,28708
+Minnesota,2002,29630
+Minnesota,2003,31181
+Minnesota,2004,33029
+Minnesota,2005,33389
+Minnesota,2006,34626
+Minnesota,2007,36197
+Minnesota,2008,37519
+Minnesota,2009,36757
+Minnesota,2010,38071
+Minnesota,2011,39884
+Minnesota,2012,42037
+Minnesota,2013,41523
+Minnesota,2014,43365
+Mississippi,1984,8673
+Mississippi,1985,9089
+Mississippi,1986,9450
+Mississippi,1987,9982
+Mississippi,1988,10753
+Mississippi,1989,11587
+Mississippi,1990,12165
+Mississippi,1991,12773
+Mississippi,1992,13634
+Mississippi,1993,14304
+Mississippi,1994,15231
+Mississippi,1995,15888
+Mississippi,1996,16655
+Mississippi,1997,17369
+Mississippi,1998,18196
+Mississippi,1999,18670
+Mississippi,2000,19594
+Mississippi,2001,20664
+Mississippi,2002,21321
+Mississippi,2003,22226
+Mississippi,2004,23580
+Mississippi,2005,24848
+Mississippi,2006,25654
+Mississippi,2007,27126
+Mississippi,2008,28148
+Mississippi,2009,28090
+Mississippi,2010,28975
+Mississippi,2011,30160
+Mississippi,2012,31140
+Mississippi,2013,31523
+Mississippi,2014,32125
+Missouri,1984,11645
+Missouri,1985,12348
+Missouri,1986,12956
+Missouri,1987,13520
+Missouri,1988,14331
+Missouri,1989,15257
+Missouri,1990,15821
+Missouri,1991,16509
+Missouri,1992,17460
+Missouri,1993,18048
+Missouri,1994,18904
+Missouri,1995,19673
+Missouri,1996,20531
+Missouri,1997,21472
+Missouri,1998,22281
+Missouri,1999,22974
+Missouri,2000,24373
+Missouri,2001,25035
+Missouri,2002,26032
+Missouri,2003,27156
+Missouri,2004,28579
+Missouri,2005,29167
+Missouri,2006,30484
+Missouri,2007,31526
+Missouri,2008,33151
+Missouri,2009,33206
+Missouri,2010,33854
+Missouri,2011,34770
+Missouri,2012,36436
+Missouri,2013,36337
+Missouri,2014,37532
+Montana,1984,10519
+Montana,1985,10650
+Montana,1986,11302
+Montana,1987,11635
+Montana,1988,11972
+Montana,1989,13121
+Montana,1990,13806
+Montana,1991,14625
+Montana,1992,15208
+Montana,1993,16108
+Montana,1994,16162
+Montana,1995,16760
+Montana,1996,17326
+Montana,1997,17918
+Montana,1998,19048
+Montana,1999,19278
+Montana,2000,20376
+Montana,2001,21194
+Montana,2002,22090
+Montana,2003,23729
+Montana,2004,25623
+Montana,2005,27127
+Montana,2006,28874
+Montana,2007,30428
+Montana,2008,32034
+Montana,2009,31685
+Montana,2010,33340
+Montana,2011,34961
+Montana,2012,36776
+Montana,2013,36484
+Montana,2014,37948
+Nebraska,1984,12089
+Nebraska,1985,12759
+Nebraska,1986,13216
+Nebraska,1987,13848
+Nebraska,1988,14753
+Nebraska,1989,15529
+Nebraska,1990,16527
+Nebraska,1991,17022
+Nebraska,1992,17956
+Nebraska,1993,18375
+Nebraska,1994,19372
+Nebraska,1995,20137
+Nebraska,1996,21703
+Nebraska,1997,21968
+Nebraska,1998,23254
+Nebraska,1999,24242
+Nebraska,2000,25500
+Nebraska,2001,26748
+Nebraska,2002,27557
+Nebraska,2003,29477
+Nebraska,2004,30658
+Nebraska,2005,31349
+Nebraska,2006,32290
+Nebraska,2007,34387
+Nebraska,2008,36339
+Nebraska,2009,36236
+Nebraska,2010,37682
+Nebraska,2011,41559
+Nebraska,2012,42237
+Nebraska,2013,41922
+Nebraska,2014,43912
+Nevada,1984,13219
+Nevada,1985,13853
+Nevada,1986,14478
+Nevada,1987,15087
+Nevada,1988,16250
+Nevada,1989,17297
+Nevada,1990,18027
+Nevada,1991,18841
+Nevada,1992,19987
+Nevada,1993,20627
+Nevada,1994,21570
+Nevada,1995,22487
+Nevada,1996,23367
+Nevada,1997,24183
+Nevada,1998,25613
+Nevada,1999,26557
+Nevada,2000,27871
+Nevada,2001,28484
+Nevada,2002,28707
+Nevada,2003,29837
+Nevada,2004,31545
+Nevada,2005,33742
+Nevada,2006,35271
+Nevada,2007,35704
+Nevada,2008,34880
+Nevada,2009,33198
+Nevada,2010,34399
+Nevada,2011,35366
+Nevada,2012,36286
+Nevada,2013,35556
+Nevada,2014,37647
+New Hampshire,1984,13166
+New Hampshire,1985,14096
+New Hampshire,1986,15055
+New Hampshire,1987,16169
+New Hampshire,1988,17464
+New Hampshire,1989,18361
+New Hampshire,1990,18456
+New Hampshire,1991,19271
+New Hampshire,1992,20105
+New Hampshire,1993,20463
+New Hampshire,1994,21614
+New Hampshire,1995,22560
+New Hampshire,1996,23331
+New Hampshire,1997,24472
+New Hampshire,1998,26559
+New Hampshire,1999,27738
+New Hampshire,2000,30508
+New Hampshire,2001,32230
+New Hampshire,2002,33274
+New Hampshire,2003,33966
+New Hampshire,2004,35978
+New Hampshire,2005,36743
+New Hampshire,2006,38863
+New Hampshire,2007,39995
+New Hampshire,2008,41200
+New Hampshire,2009,41575
+New Hampshire,2010,43254
+New Hampshire,2011,44612
+New Hampshire,2012,46653
+New Hampshire,2013,45940
+New Hampshire,2014,47363
+New Jersey,1984,14609
+New Jersey,1985,15407
+New Jersey,1986,16349
+New Jersey,1987,17353
+New Jersey,1988,19170
+New Jersey,1989,20554
+New Jersey,1990,21556
+New Jersey,1991,21919
+New Jersey,1992,23410
+New Jersey,1993,23904
+New Jersey,1994,24445
+New Jersey,1995,25794
+New Jersey,1996,26870
+New Jersey,1997,28153
+New Jersey,1998,29448
+New Jersey,1999,30341
+New Jersey,2000,32872
+New Jersey,2001,33864
+New Jersey,2002,35131
+New Jersey,2003,36177
+New Jersey,2004,37718
+New Jersey,2005,38576
+New Jersey,2006,41233
+New Jersey,2007,43114
+New Jersey,2008,44338
+New Jersey,2009,44237
+New Jersey,2010,45207
+New Jersey,2011,46200
+New Jersey,2012,47906
+New Jersey,2013,47345
+New Jersey,2014,49332
+New Mexico,1984,10594
+New Mexico,1985,11266
+New Mexico,1986,11572
+New Mexico,1987,11805
+New Mexico,1988,12383
+New Mexico,1989,13082
+New Mexico,1990,13793
+New Mexico,1991,14484
+New Mexico,1992,15202
+New Mexico,1993,15899
+New Mexico,1994,16479
+New Mexico,1995,17341
+New Mexico,1996,17805
+New Mexico,1997,18381
+New Mexico,1998,19083
+New Mexico,1999,19207
+New Mexico,2000,20618
+New Mexico,2001,21888
+New Mexico,2002,22911
+New Mexico,2003,23872
+New Mexico,2004,25124
+New Mexico,2005,26232
+New Mexico,2006,27614
+New Mexico,2007,28749
+New Mexico,2008,30528
+New Mexico,2009,30306
+New Mexico,2010,31185
+New Mexico,2011,32152
+New Mexico,2012,32861
+New Mexico,2013,31928
+New Mexico,2014,33898
+New York,1984,13587
+New York,1985,14409
+New York,1986,15338
+New York,1987,16160
+New York,1988,17865
+New York,1989,19156
+New York,1990,20644
+New York,1991,20645
+New York,1992,21711
+New York,1993,22080
+New York,1994,22662
+New York,1995,23746
+New York,1996,24705
+New York,1997,25810
+New York,1998,26922
+New York,1999,28199
+New York,2000,30065
+New York,2001,30705
+New York,2002,31820
+New York,2003,32556
+New York,2004,33899
+New York,2005,34712
+New York,2006,36957
+New York,2007,39227
+New York,2008,39951
+New York,2009,40753
+New York,2010,42053
+New York,2011,43266
+New York,2012,45415
+New York,2013,44695
+New York,2014,46088
+North Carolina,1984,10535
+North Carolina,1985,11179
+North Carolina,1986,11920
+North Carolina,1987,12591
+North Carolina,1988,13707
+North Carolina,1989,14661
+North Carolina,1990,15425
+North Carolina,1991,15926
+North Carolina,1992,17103
+North Carolina,1993,17824
+North Carolina,1994,18521
+North Carolina,1995,19386
+North Carolina,1996,20244
+North Carolina,1997,21205
+North Carolina,1998,22077
+North Carolina,1999,22798
+North Carolina,2000,23834
+North Carolina,2001,24168
+North Carolina,2002,24685
+North Carolina,2003,25727
+North Carolina,2004,27583
+North Carolina,2005,28859
+North Carolina,2006,30551
+North Carolina,2007,32027
+North Carolina,2008,33776
+North Carolina,2009,32800
+North Carolina,2010,32634
+North Carolina,2011,33158
+North Carolina,2012,35316
+North Carolina,2013,34277
+North Carolina,2014,35986
+North Dakota,1984,11322
+North Dakota,1985,11775
+North Dakota,1986,12141
+North Dakota,1987,12601
+North Dakota,1988,11669
+North Dakota,1989,13292
+North Dakota,1990,14590
+North Dakota,1991,14795
+North Dakota,1992,16256
+North Dakota,1993,16303
+North Dakota,1994,17688
+North Dakota,1995,17530
+North Dakota,1996,19626
+North Dakota,1997,19052
+North Dakota,1998,21015
+North Dakota,1999,21375
+North Dakota,2000,23379
+North Dakota,2001,23872
+North Dakota,2002,24902
+North Dakota,2003,27425
+North Dakota,2004,27807
+North Dakota,2005,29336
+North Dakota,2006,30323
+North Dakota,2007,33184
+North Dakota,2008,36953
+North Dakota,2009,36904
+North Dakota,2010,40443
+North Dakota,2011,44002
+North Dakota,2012,50512
+North Dakota,2013,48586
+North Dakota,2014,50966
+Ohio,1984,11737
+Ohio,1985,12423
+Ohio,1986,13034
+Ohio,1987,13511
+Ohio,1988,14519
+Ohio,1989,15494
+Ohio,1990,16380
+Ohio,1991,16690
+Ohio,1992,17695
+Ohio,1993,18259
+Ohio,1994,19163
+Ohio,1995,19937
+Ohio,1996,20641
+Ohio,1997,21713
+Ohio,1998,22813
+Ohio,1999,23492
+Ohio,2000,24649
+Ohio,2001,25352
+Ohio,2002,26135
+Ohio,2003,27153
+Ohio,2004,28232
+Ohio,2005,28899
+Ohio,2006,30218
+Ohio,2007,31371
+Ohio,2008,32604
+Ohio,2009,32444
+Ohio,2010,33316
+Ohio,2011,35121
+Ohio,2012,36520
+Ohio,2013,36748
+Ohio,2014,38198
+Oklahoma,1984,11354
+Oklahoma,1985,11869
+Oklahoma,1986,12279
+Oklahoma,1987,12241
+Oklahoma,1988,12936
+Oklahoma,1989,13754
+Oklahoma,1990,14319
+Oklahoma,1991,14774
+Oklahoma,1992,15567
+Oklahoma,1993,16032
+Oklahoma,1994,16561
+Oklahoma,1995,17118
+Oklahoma,1996,17883
+Oklahoma,1997,18590
+Oklahoma,1998,19379
+Oklahoma,1999,19713
+Oklahoma,2000,21278
+Oklahoma,2001,22552
+Oklahoma,2002,23424
+Oklahoma,2003,24727
+Oklahoma,2004,26693
+Oklahoma,2005,28823
+Oklahoma,2006,31355
+Oklahoma,2007,31956
+Oklahoma,2008,35341
+Oklahoma,2009,33064
+Oklahoma,2010,34329
+Oklahoma,2011,36171
+Oklahoma,2012,38439
+Oklahoma,2013,39956
+Oklahoma,2014,42345
+Oregon,1984,11467
+Oregon,1985,11967
+Oregon,1986,12479
+Oregon,1987,13036
+Oregon,1988,14160
+Oregon,1989,15011
+Oregon,1990,15965
+Oregon,1991,16349
+Oregon,1992,17116
+Oregon,1993,17869
+Oregon,1994,18691
+Oregon,1995,19747
+Oregon,1996,20791
+Oregon,1997,21514
+Oregon,1998,22415
+Oregon,1999,22779
+Oregon,2000,24189
+Oregon,2001,24885
+Oregon,2002,25317
+Oregon,2003,26206
+Oregon,2004,27522
+Oregon,2005,28263
+Oregon,2006,30302
+Oregon,2007,31500
+Oregon,2008,32421
+Oregon,2009,31811
+Oregon,2010,32347
+Oregon,2011,33311
+Oregon,2012,34966
+Oregon,2013,34831
+Oregon,2014,36874
+Pennsylvania,1984,11861
+Pennsylvania,1985,12598
+Pennsylvania,1986,13261
+Pennsylvania,1987,13928
+Pennsylvania,1988,15089
+Pennsylvania,1989,16269
+Pennsylvania,1990,17218
+Pennsylvania,1991,17920
+Pennsylvania,1992,18804
+Pennsylvania,1993,19421
+Pennsylvania,1994,19970
+Pennsylvania,1995,20751
+Pennsylvania,1996,21643
+Pennsylvania,1997,22571
+Pennsylvania,1998,23659
+Pennsylvania,1999,24641
+Pennsylvania,2000,26321
+Pennsylvania,2001,27471
+Pennsylvania,2002,28512
+Pennsylvania,2003,29714
+Pennsylvania,2004,31446
+Pennsylvania,2005,32403
+Pennsylvania,2006,33712
+Pennsylvania,2007,35453
+Pennsylvania,2008,36771
+Pennsylvania,2009,36598
+Pennsylvania,2010,38068
+Pennsylvania,2011,39424
+Pennsylvania,2012,41014
+Pennsylvania,2013,40953
+Pennsylvania,2014,42537
+Rhode Island,1984,12388
+Rhode Island,1985,13228
+Rhode Island,1986,13981
+Rhode Island,1987,14631
+Rhode Island,1988,16122
+Rhode Island,1989,17474
+Rhode Island,1990,17943
+Rhode Island,1991,18105
+Rhode Island,1992,18997
+Rhode Island,1993,19728
+Rhode Island,1994,20177
+Rhode Island,1995,21224
+Rhode Island,1996,21751
+Rhode Island,1997,22700
+Rhode Island,1998,23978
+Rhode Island,1999,24782
+Rhode Island,2000,26260
+Rhode Island,2001,27518
+Rhode Island,2002,29066
+Rhode Island,2003,30682
+Rhode Island,2004,32182
+Rhode Island,2005,32912
+Rhode Island,2006,34584
+Rhode Island,2007,36070
+Rhode Island,2008,36862
+Rhode Island,2009,36879
+Rhode Island,2010,38786
+Rhode Island,2011,39518
+Rhode Island,2012,40987
+Rhode Island,2013,40340
+Rhode Island,2014,41846
+South Carolina,1984,9900
+South Carolina,1985,10457
+South Carolina,1986,11053
+South Carolina,1987,11672
+South Carolina,1988,12646
+South Carolina,1989,13489
+South Carolina,1990,14299
+South Carolina,1991,14764
+South Carolina,1992,15538
+South Carolina,1993,16130
+South Carolina,1994,16874
+South Carolina,1995,17600
+South Carolina,1996,18396
+South Carolina,1997,19187
+South Carolina,1998,20203
+South Carolina,1999,20908
+South Carolina,2000,22199
+South Carolina,2001,22782
+South Carolina,2002,23624
+South Carolina,2003,24399
+South Carolina,2004,25488
+South Carolina,2005,26419
+South Carolina,2006,27815
+South Carolina,2007,29017
+South Carolina,2008,30002
+South Carolina,2009,29497
+South Carolina,2010,30235
+South Carolina,2011,31434
+South Carolina,2012,32854
+South Carolina,2013,32727
+South Carolina,2014,34564
+South Dakota,1984,11048
+South Dakota,1985,11284
+South Dakota,1986,11822
+South Dakota,1987,12410
+South Dakota,1988,12909
+South Dakota,1989,13863
+South Dakota,1990,15115
+South Dakota,1991,15618
+South Dakota,1992,16676
+South Dakota,1993,17120
+South Dakota,1994,18334
+South Dakota,1995,18426
+South Dakota,1996,20310
+South Dakota,1997,20460
+South Dakota,1998,22021
+South Dakota,1999,22834
+South Dakota,2000,24265
+South Dakota,2001,25015
+South Dakota,2002,25312
+South Dakota,2003,27908
+South Dakota,2004,29826
+South Dakota,2005,31256
+South Dakota,2006,32362
+South Dakota,2007,35492
+South Dakota,2008,37772
+South Dakota,2009,36968
+South Dakota,2010,38681
+South Dakota,2011,41413
+South Dakota,2012,41814
+South Dakota,2013,41737
+South Dakota,2014,43309
+Tennessee,1984,10362
+Tennessee,1985,10972
+Tennessee,1986,11699
+Tennessee,1987,12430
+Tennessee,1988,13460
+Tennessee,1989,14304
+Tennessee,1990,15129
+Tennessee,1991,15736
+Tennessee,1992,16930
+Tennessee,1993,17691
+Tennessee,1994,18430
+Tennessee,1995,19406
+Tennessee,1996,20051
+Tennessee,1997,20856
+Tennessee,1998,22556
+Tennessee,1999,23182
+Tennessee,2000,24367
+Tennessee,2001,24772
+Tennessee,2002,25758
+Tennessee,2003,26867
+Tennessee,2004,28219
+Tennessee,2005,29027
+Tennessee,2006,30184
+Tennessee,2007,31101
+Tennessee,2008,32127
+Tennessee,2009,32261
+Tennessee,2010,33498
+Tennessee,2011,34963
+Tennessee,2012,36518
+Tennessee,2013,36320
+Tennessee,2014,37421
+Texas,1984,12061
+Texas,1985,12786
+Texas,1986,12993
+Texas,1987,13146
+Texas,1988,13976
+Texas,1989,14722
+Texas,1990,15646
+Texas,1991,16120
+Texas,1992,17156
+Texas,1993,17741
+Texas,1994,18322
+Texas,1995,19149
+Texas,1996,20052
+Texas,1997,21266
+Texas,1998,22627
+Texas,1999,23509
+Texas,2000,25024
+Texas,2001,26294
+Texas,2002,26815
+Texas,2003,27715
+Texas,2004,28690
+Texas,2005,30233
+Texas,2006,32160
+Texas,2007,33367
+Texas,2008,35692
+Texas,2009,34445
+Texas,2010,35953
+Texas,2011,38238
+Texas,2012,40288
+Texas,2013,40449
+Texas,2014,42644
+Utah,1984,9875
+Utah,1985,10406
+Utah,1986,10800
+Utah,1987,11172
+Utah,1988,11824
+Utah,1989,12584
+Utah,1990,13286
+Utah,1991,13941
+Utah,1992,14609
+Utah,1993,15208
+Utah,1994,15841
+Utah,1995,16738
+Utah,1996,17724
+Utah,1997,18649
+Utah,1998,19481
+Utah,1999,20164
+Utah,2000,21186
+Utah,2001,21900
+Utah,2002,22598
+Utah,2003,23317
+Utah,2004,24468
+Utah,2005,25807
+Utah,2006,27752
+Utah,2007,29258
+Utah,2008,30297
+Utah,2009,29018
+Utah,2010,29399
+Utah,2011,30931
+Utah,2012,32465
+Utah,2013,32639
+Utah,2014,34072
+Vermont,1984,11053
+Vermont,1985,11842
+Vermont,1986,12584
+Vermont,1987,13386
+Vermont,1988,14441
+Vermont,1989,15677
+Vermont,1990,16108
+Vermont,1991,16422
+Vermont,1992,17517
+Vermont,1993,18034
+Vermont,1994,18739
+Vermont,1995,19561
+Vermont,1996,20318
+Vermont,1997,21136
+Vermont,1998,22559
+Vermont,1999,23642
+Vermont,2000,25338
+Vermont,2001,27015
+Vermont,2002,27941
+Vermont,2003,29331
+Vermont,2004,30987
+Vermont,2005,31350
+Vermont,2006,33076
+Vermont,2007,34623
+Vermont,2008,36682
+Vermont,2009,37161
+Vermont,2010,38284
+Vermont,2011,39858
+Vermont,2012,41167
+Vermont,2013,41223
+Vermont,2014,42849
+Virginia,1984,12932
+Virginia,1985,13717
+Virginia,1986,14558
+Virginia,1987,15282
+Virginia,1988,16542
+Virginia,1989,17574
+Virginia,1990,18255
+Virginia,1991,18873
+Virginia,1992,19780
+Virginia,1993,20440
+Virginia,1994,21173
+Virginia,1995,21972
+Virginia,1996,22684
+Virginia,1997,23782
+Virginia,1998,24857
+Virginia,1999,26061
+Virginia,2000,27844
+Virginia,2001,29006
+Virginia,2002,30202
+Virginia,2003,31997
+Virginia,2004,33810
+Virginia,2005,35240
+Virginia,2006,37023
+Virginia,2007,38557
+Virginia,2008,39698
+Virginia,2009,39463
+Virginia,2010,40631
+Virginia,2011,41982
+Virginia,2012,43716
+Virginia,2013,42579
+Virginia,2014,44083
+Washington,1984,13028
+Washington,1985,13645
+Washington,1986,14426
+Washington,1987,14890
+Washington,1988,15906
+Washington,1989,17006
+Washington,1990,18027
+Washington,1991,18935
+Washington,1992,19962
+Washington,1993,20585
+Washington,1994,21183
+Washington,1995,21935
+Washington,1996,23014
+Washington,1997,24160
+Washington,1998,25728
+Washington,1999,26537
+Washington,2000,28257
+Washington,2001,29060
+Washington,2002,29852
+Washington,2003,31116
+Washington,2004,33274
+Washington,2005,33834
+Washington,2006,35984
+Washington,2007,38250
+Washington,2008,39846
+Washington,2009,38370
+Washington,2010,38908
+Washington,2011,40089
+Washington,2012,43030
+Washington,2013,43055
+Washington,2014,45652
+West Virginia,1984,9237
+West Virginia,1985,9721
+West Virginia,1986,10122
+West Virginia,1987,10500
+West Virginia,1988,11451
+West Virginia,1989,12191
+West Virginia,1990,13073
+West Virginia,1991,13632
+West Virginia,1992,14701
+West Virginia,1993,15160
+West Virginia,1994,15740
+West Virginia,1995,16219
+West Virginia,1996,16844
+West Virginia,1997,17524
+West Virginia,1998,18272
+West Virginia,1999,18802
+West Virginia,2000,19945
+West Virginia,2001,21205
+West Virginia,2002,22265
+West Virginia,2003,22700
+West Virginia,2004,23581
+West Virginia,2005,24552
+West Virginia,2006,26067
+West Virginia,2007,26848
+West Virginia,2008,28418
+West Virginia,2009,29058
+West Virginia,2010,30011
+West Virginia,2011,31313
+West Virginia,2012,32323
+West Virginia,2013,31994
+West Virginia,2014,33080
+Wisconsin,1984,11739
+Wisconsin,1985,12337
+Wisconsin,1986,12995
+Wisconsin,1987,13569
+Wisconsin,1988,14312
+Wisconsin,1989,15464
+Wisconsin,1990,16162
+Wisconsin,1991,16632
+Wisconsin,1992,17742
+Wisconsin,1993,18418
+Wisconsin,1994,19334
+Wisconsin,1995,20097
+Wisconsin,1996,20934
+Wisconsin,1997,21934
+Wisconsin,1998,23223
+Wisconsin,1999,24023
+Wisconsin,2000,25484
+Wisconsin,2001,26741
+Wisconsin,2002,27841
+Wisconsin,2003,28723
+Wisconsin,2004,29968
+Wisconsin,2005,30648
+Wisconsin,2006,32139
+Wisconsin,2007,33400
+Wisconsin,2008,34479
+Wisconsin,2009,34530
+Wisconsin,2010,35413
+Wisconsin,2011,36855
+Wisconsin,2012,38468
+Wisconsin,2013,38175
+Wisconsin,2014,39755
+Wyoming,1984,12212
+Wyoming,1985,12882
+Wyoming,1986,13075
+Wyoming,1987,13014
+Wyoming,1988,13597
+Wyoming,1989,14956
+Wyoming,1990,16286
+Wyoming,1991,16945
+Wyoming,1992,17659
+Wyoming,1993,18359
+Wyoming,1994,18891
+Wyoming,1995,19611
+Wyoming,1996,19960
+Wyoming,1997,21265
+Wyoming,1998,22514
+Wyoming,1999,24012
+Wyoming,2000,25645
+Wyoming,2001,27384
+Wyoming,2002,28622
+Wyoming,2003,30636
+Wyoming,2004,32888
+Wyoming,2005,35337
+Wyoming,2006,39194
+Wyoming,2007,40569
+Wyoming,2008,43947
+Wyoming,2009,40979
+Wyoming,2010,42508
+Wyoming,2011,46125
+Wyoming,2012,48368
+Wyoming,2013,47898
+Wyoming,2014,51573
