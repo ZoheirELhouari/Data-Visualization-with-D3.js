@@ -1,5 +1,3 @@
-# VIS Assginment 3 documentation
-
 ## Zoheir El Houari
 
 
